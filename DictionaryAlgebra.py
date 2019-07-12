@@ -27,3 +27,5 @@ def search(WANTED_LENGTH):
             print("closing")
             file.close()
             break #breaks out if it is about to get an error
+            
+#credti for the dictionary goes to https://github.com/dwyl/english-words
